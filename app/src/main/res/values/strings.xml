@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise 4</string>
+    <string name="dob">Please select date of birth:</string>
+    <string name="age">Member Age:</string>
+    <string name="minimum">Minimun Basic Saving (RM):</string>
+    <string name="amount">Allowable Investment Amount:</string>
+    <string name="title">Employee Provident Fund(EFP) - \n Investment Scheme Eligibility Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+</resources>
